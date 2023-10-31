@@ -14,3 +14,4 @@ spec:
     requests:
       # the PVC storage
       storage: 8Gi
+
