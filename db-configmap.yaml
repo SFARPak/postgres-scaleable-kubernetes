@@ -8,8 +8,8 @@ metadata:
     app: postgresdb
 data:
   # User DB
-  POSTGRES_DB: netnet
+  POSTGRES_DB: somedatabase
   # Db user
-  POSTGRES_USER: netnet
+  POSTGRES_USER: someuser
   # Db password
-  POSTGRES_PASSWORD: '5&T#0upcg96xYBz2u2'
+  POSTGRES_PASSWORD: 'somepassword'
