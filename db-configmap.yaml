@@ -13,3 +13,5 @@ data:
   POSTGRES_USER: someuser
   # Db password
   POSTGRES_PASSWORD: 'somepassword'
+
+
